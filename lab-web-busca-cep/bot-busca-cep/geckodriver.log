@@ -1,0 +1,427 @@
+1719521679560	geckodriver	INFO	Listening on 127.0.0.1:57883
+1719521683684	mozrunner::runner	INFO	Running command: "C:\\Users\\taysi\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\taysi\\AppData\\Local\\Temp\\rust_mozprofile2rYWXm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719521685207	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719521685713	Marionette	INFO	Listening on port 57903
+1719521686041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.botcity.dev/, line 22: ReferenceError: Weglot is not defined
+JavaScript error: https://herotofutags.com/sticky/v1.js, line 1: TypeError: window.herotofu is undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js, line 16: Error: [MixItUp] An invalid selector or element reference was passed to the mixitup factory function
+JavaScript error: https://www.botcity.dev/, line 311: SyntaxError: redeclaration of const containerEl
+1719521698535	Marionette	INFO	Stopped listening on port 57903
+Dynamically enable window occlusion 1
+1719521821438	geckodriver	INFO	Listening on 127.0.0.1:58022
+1719521824832	mozrunner::runner	INFO	Running command: "C:\\Users\\taysi\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\taysi\\AppData\\Local\\Temp\\rust_mozprofileqkNExP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719521825550	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719521826379	Marionette	INFO	Listening on port 58030
+1719521826442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VKtwqYIMw_jEtcsYEdk2t0uWx1X5nCbHNvrRSJpikmk.js line 2 > eval line 4175 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 4273 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1719521855637	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://buscacep.com.br."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newChannelFromURI]"  nsresult: "0x804b000a (NS_ERROR_MALFORMED_URI)"  location: "JS frame :: resource://gre/modules/NetUtil.sys.mjs :: NetUtil_newChannel :: line 307"  data: no]
+Stack: NetUtil_newChannel@resource://gre/modules/NetUtil.sys.mjs:307:31
+newChannelForURL@resource://devtools/shared/DevToolsUtils.js:790:18
+mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:571:17
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:566:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:467:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:431:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2211:33
+addAllSources@resource://devtools/server/actors/thread.js:1531:14
+watch@resource://devtools/server/actors/resources/sources.js:83:17
+watchResources@resource://devtools/server/actors/resources/index.js:340:15
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:19:21
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:54:23
+#addOrSetSessionDataEntry@resource://devtools/server/connectors/js-process-actor/DevToolsProcessChild.sys.mjs:380:21
+receiveMessage@resource://devtools/server/connectors/js-process-actor/DevToolsProcessChild.sys.mjs:305:46
+Line: 307, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newChannelFromURI]"  nsresult: "0x804b000a (NS_ERROR_MALFORMED_URI)"  location: "JS frame :: resource://gre/modules/NetUtil.sys.mjs :: NetUtil_newChannel :: line 307"  data: no]
+Stack: NetUtil_newChannel@resource://gre/modules/NetUtil.sys.mjs:307:31
+newChannelForURL@resource://devtools/shared/DevToolsUtils.js:790:18
+mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:571:17
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:566:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:467:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:431:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2211:33
+addAllSources@resource://devtools/server/actors/thread.js:1531:14
+watch@resource://devtools/server/actors/resources/sources.js:83:17
+watchResources@resource://devtools/server/actors/resources/index.js:340:15
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:19:21
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:54:23
+#addOrSetSessionDataEntry@resource://devtools/server/connectors/js-process-actor/DevToolsProcessChild.sys.mjs:380:21
+receiveMessage@resource://devtools/server/connectors/js-process-actor/DevToolsProcessChild.sys.mjs:305:46
+Line: 307, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 453: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 453: TypeError: channel is null
+JavaScript error: resource://gre/modules/NetUtil.sys.mjs, line 307: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newChannelFromURI]
+JavaScript error: resource://gre/modules/NetUtil.sys.mjs, line 307: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newChannelFromURI]
+Exiting due to channel error.
+Exiting due to channel error.
+1719522500216	geckodriver	INFO	Listening on 127.0.0.1:58367
+1719522504095	mozrunner::runner	INFO	Running command: "C:\\Users\\taysi\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\taysi\\AppData\\Local\\Temp\\rust_mozprofileM9zjSc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719522506469	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719522507685	Marionette	INFO	Listening on port 58375
+1719522507758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 5: Script terminated by timeout at:
+t@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:5:248
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:296
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+N.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1025
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+N.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1025
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+N.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1025
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+N.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1025
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:360
+p.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:273
+p.sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:279
+p.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:47
+p.sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:279
+hf.prototype.sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:197
+p.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:47
+p.sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:279
+p.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:47
+p.sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:279
+p.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:47
+p.sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:279
+p.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:47
+p.sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:279
+p.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:47
+vh/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:137:430
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Ta.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:490
+vh/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:137:292
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:516
+Sa.prototype.Rb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:322
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:525
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:516
+Sa.prototype.Rb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:322
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:525
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+f@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:378
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 5168 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1719522518864	Marionette	INFO	Stopped listening on port 58375
+Dynamically enable window occlusion 1
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VKtwqYIMw_jEtcsYEdk2t0uWx1X5nCbHNvrRSJpikmk.js line 2 > eval line 6952 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1719522539894	geckodriver	INFO	Listening on 127.0.0.1:58512
+1719522543138	mozrunner::runner	INFO	Running command: "C:\\Users\\taysi\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\taysi\\AppData\\Local\\Temp\\rust_mozprofileKxalEx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719522544087	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719522544861	Marionette	INFO	Listening on port 58520
+1719522544917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 14: Script terminated by timeout at:
+B@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:14:248
+f@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:350
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 3975 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VKtwqYIMw_jEtcsYEdk2t0uWx1X5nCbHNvrRSJpikmk.js line 2 > eval line 6277 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newChannelFromURI]"  nsresult: "0x804b000a (NS_ERROR_MALFORMED_URI)"  location: "JS frame :: resource://gre/modules/NetUtil.sys.mjs :: NetUtil_newChannel :: line 307"  data: no]
+Stack: NetUtil_newChannel@resource://gre/modules/NetUtil.sys.mjs:307:31
+newChannelForURL@resource://devtools/shared/DevToolsUtils.js:790:18
+mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:571:17
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:566:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:467:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:431:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2211:33
+addAllSources@resource://devtools/server/actors/thread.js:1531:14
+watch@resource://devtools/server/actors/resources/sources.js:83:17
+watchResources@resource://devtools/server/actors/resources/index.js:340:15
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:19:21
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:54:23
+#addOrSetSessionDataEntry@resource://devtools/server/connectors/js-process-actor/DevToolsProcessChild.sys.mjs:380:21
+receiveMessage@resource://devtools/server/connectors/js-process-actor/DevToolsProcessChild.sys.mjs:305:46
+Line: 307, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newChannelFromURI]"  nsresult: "0x804b000a (NS_ERROR_MALFORMED_URI)"  location: "JS frame :: resource://gre/modules/NetUtil.sys.mjs :: NetUtil_newChannel :: line 307"  data: no]
+Stack: NetUtil_newChannel@resource://gre/modules/NetUtil.sys.mjs:307:31
+newChannelForURL@resource://devtools/shared/DevToolsUtils.js:790:18
+mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:571:17
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:566:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:467:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:431:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2211:33
+addAllSources@resource://devtools/server/actors/thread.js:1531:14
+watch@resource://devtools/server/actors/resources/sources.js:83:17
+watchResources@resource://devtools/server/actors/resources/index.js:340:15
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:19:21
+addOrSetSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:54:23
+#addOrSetSessionDataEntry@resource://devtools/server/connectors/js-process-actor/DevToolsProcessChild.sys.mjs:380:21
+receiveMessage@resource://devtools/server/connectors/js-process-actor/DevToolsProcessChild.sys.mjs:305:46
+Line: 307, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 453: TypeError: channel is null
+JavaScript error: resource://gre/modules/NetUtil.sys.mjs, line 307: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newChannelFromURI]
+JavaScript error: resource://gre/modules/NetUtil.sys.mjs, line 307: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newChannelFromURI]
+1719522574187	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719523158929	geckodriver	INFO	Listening on 127.0.0.1:58891
+?id=G-XV6HLFSXWF&l=dataLayer&cx=c, line 533: Script terminated by timeout at:
+ca.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-XV6HLFSXWF&l=dataLayer&cx=c:533:408
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1719523157442	Marionette	INFO	Stopped listening on port 58520
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1719523163667	geckodriver	INFO	Listening on 127.0.0.1:58894
+1719523167148	mozrunner::runner	INFO	Running command: "C:\\Users\\taysi\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\taysi\\AppData\\Local\\Temp\\rust_mozprofileUwI6ga"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719523168054	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719523168847	Marionette	INFO	Listening on port 58902
+1719523168915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 89: Script terminated by timeout at:
+td@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:89:578
+U/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:99:4132
+N/this.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:666
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+Q/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:1464
+N/this.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:666
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+Ud/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:1812
+N/this.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:666
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+vh/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:137:320
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Ta.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:490
+vh/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:137:292
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:516
+Sa.prototype.Rb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:322
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:525
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:516
+Sa.prototype.Rb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:322
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:525
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+f@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:378
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 218 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VKtwqYIMw_jEtcsYEdk2t0uWx1X5nCbHNvrRSJpikmk.js line 2 > eval line 214 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1719523186977	Marionette	INFO	Stopped listening on port 58902
+Dynamically enable window occlusion 1
+1719523476357	geckodriver	INFO	Listening on 127.0.0.1:59113
+1719523479931	mozrunner::runner	INFO	Running command: "C:\\Users\\taysi\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\taysi\\AppData\\Local\\Temp\\rust_mozprofileuhDGxl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719523480748	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719523481434	Marionette	INFO	Listening on port 59125
+1719523481482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 91: Script terminated by timeout at:
+Hd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:570
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:208
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+N.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1025
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+bd/</</e<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1499
+N.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:990
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+N.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1025
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+N.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1025
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+N.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1025
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+N.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1025
+zc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:214
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:348
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:127
+p.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:360
+p.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:273
+p.sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:279
+p.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:47
+Qe/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:99:1439
+N/this.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:666
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+Ud/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:1812
+N/this.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:666
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+O/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:87:378
+N/this.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:666
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+O/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:87:378
+N/this.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:666
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+vh/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:137:320
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Ta.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:490
+vh/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:137:292
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:516
+Sa.prototype.Rb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:322
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:525
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:516
+Sa.prototype.Rb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:322
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:525
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+f@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:378
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 7242 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VKtwqYIMw_jEtcsYEdk2t0uWx1X5nCbHNvrRSJpikmk.js line 2 > eval line 6463 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1719523510817	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202406250101/reactive_library_fy2021.js, line 242: Script terminated by timeout at:
+jr/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202406250101/reactive_library_fy2021.js:242:766
+kr@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202406250101/reactive_library_fy2021.js:243:716
+Sr@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202406250101/reactive_library_fy2021.js:254:358
+Nr/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202406250101/reactive_library_fy2021.js:252:278
+V/</<@https://pagead2.googlesyndication.com/pagead/managed/js/adsenseconsole.error: ({})
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 137: Script terminated by timeout at:
+vh/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:137:286
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:567
+p.Kh@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1991
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+vh/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:137:320
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Ta.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:490
+vh/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:137:292
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:516
+Sa.prototype.Rb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:322
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:525
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:516
+Sa.prototype.Rb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:322
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:120:525
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:494
+p.Oa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:174
+p.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:643
+f@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:378
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 4805 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EwGoFmJh85jiKfF-1zVyLpKT-mfRa9zDiFbQBwafAqI.js line 2 > eval line 255 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VKtwqYIMw_jEtcsYEdk2t0uWx1X5nCbHNvrRSJpikmk.js line 2 > eval line 1680 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1719523786463	Marionette	INFO	Stopped listening on port 59336
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 558: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 558: TypeError: browser is null
